@@ -30,8 +30,9 @@ Before starting this project, I will ensure:
 - [MDN Web Docs](https://developer.mozilla.org/)
 - [Net Ninja course](https://www.youtube.com/watch?v=O_9u1P5YjVc&t=129s)
 
-## License
+## Tutorial Credit
 
-This project is provided under the [MIT License](LICENSE).
+Based on the “HTML & CSS Crash Course Tutorial” by **Net Ninja**  
+> I followed along and then added my own customizations.
 
 Happy coding!
